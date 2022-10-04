@@ -1,0 +1,50 @@
+body{
+	background-image:url(../img/fondo1.jpg);
+	position: absolute;
+}
+#SectionForm{
+	min-height: 96vh; 
+	background-size: cover; 
+}
+#contieneImg{
+	float: left;
+	width:50%;
+	
+}
+#contieneForm{
+	float: right;
+	
+}
+#perrito{
+	width: 65%;
+	z-index: 1;
+}
+#textura{
+	position:absolute;
+	right: 55%;
+    width: 45%;
+	z-index: -1;
+}
+#formularioContenedor{
+	width:75%;
+}
+.validacion{
+	display:none;
+}
+#siguiente{
+	background-color: #49157e;
+    color: white;
+    border-radius: 5px;
+    border-color: #49157e;
+    width: 45%;
+	font-weight: bold;
+}
+#circulo{
+	width: 30px;
+    height: 30px;
+    background: #49157e;
+    border-radius: 50px;
+	color: white;
+	font-weight: bold;
+	text-align:center;
+}
