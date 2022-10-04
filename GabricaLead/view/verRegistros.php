@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="//cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css">
-    <title>DataTables example</title>
+    <title>Gabrica</title>
 </head>
 <body>
-<h1>Behold... the power of DataTables!</h1>
+<h1>Registros Lead</h1>
 <table id="tablaLead" class="display" style="width: 100%">
     <thead>
         <tr>
